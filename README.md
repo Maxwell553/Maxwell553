@@ -1,60 +1,57 @@
 <!-- Profile README for github.com/Maxwell553 -->
 
-<h1 align="center">Hi, I'm Max Ingargiola</h1>
-
 <p align="center">
-  <strong>AI Engineer &amp; Software Developer</strong><br />
-  I build practical AI systems that turn complex data into useful decisions.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0ea5e9&height=185&section=header&text=Max%20Ingargiola&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Building%20practical%20intelligence&descSize=18&descAlignY=60&animation=fadeIn" alt="Max Ingargiola — AI Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://prepsuite.ai">PrepSuite.AI</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Maxwell553/RLBot">RLBot</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Maxwell553">GitHub</a>
+  <a href="https://prepsuite.ai"><img src="https://img.shields.io/badge/♟_PrepSuite.AI-0f766e?style=for-the-badge&labelColor=111827" alt="PrepSuite.AI" /></a>
+  <a href="https://github.com/Maxwell553/RLBot"><img src="https://img.shields.io/badge/↗_RLBot-0284c7?style=for-the-badge&labelColor=111827" alt="RLBot" /></a>
 </p>
 
-## What I'm building
+<p align="center">
+  I build AI products and research tools that make difficult data problems feel usable.
+</p>
 
-### ♟️ [PrepSuite.AI](https://prepsuite.ai)
+<br />
 
-An AI-powered chess opponent-scouting platform for serious tournament preparation. PrepSuite brings together online and over-the-board game data, then turns it into clear scouting reports, opening-repertoire analysis, and strategic preparation insights.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://prepsuite.ai">
+        <img src="https://opengraph.githubassets.com/1/Maxwell553/PrepSuite" alt="PrepSuite repository preview" />
+      </a>
+      <h3 align="center">♟ <a href="https://prepsuite.ai">PrepSuite.AI</a></h3>
+      <p align="center">AI-powered chess opponent scouting for tournament preparation.</p>
+      <p align="center">
+        <code>Chess data</code> <code>AI reports</code> <code>Product engineering</code>
+      </p>
+      <p align="center">
+        <a href="https://prepsuite.ai">Live app</a> · <a href="https://github.com/Maxwell553/PrepSuite">Source</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Maxwell553/RLBot">
+        <img src="https://opengraph.githubassets.com/1/Maxwell553/RLBot" alt="RLBot repository preview" />
+      </a>
+      <h3 align="center">↗ <a href="https://github.com/Maxwell553/RLBot">RLBot / MarketTrainer</a></h3>
+      <p align="center">Reinforcement-learning research for multi-asset portfolio allocation.</p>
+      <p align="center">
+        <code>Recurrent PPO</code> <code>Walk-forward testing</code> <code>Reproducibility</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Maxwell553/RLBot">Explore project</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- Combines data from Chess.com, Lichess, FIDE, and USCF sources
-- Uses AI and engine-assisted analysis to surface patterns worth preparing for
-- Built as a production web product with TypeScript, React, Node.js, Supabase, and Google Cloud Run
-
-[Explore PrepSuite.AI →](https://prepsuite.ai) · [View the source →](https://github.com/Maxwell553/PrepSuite)
-
-### [RLBot / MarketTrainer](https://github.com/Maxwell553/RLBot)
-
-A research stack for training and evaluating recurrent reinforcement-learning agents in a multi-asset portfolio environment. The project treats validation seriously: it reserves chronological out-of-sample windows before training and keeps configuration, data, models, and normalization artifacts reproducible at the run level.
-
-- Recurrent PPO with an LSTM policy for daily, long-only portfolio allocation
-- Causal features and next-session execution mechanics for realistic experiments
-- Walk-forward evaluation, holdout accounting, checkpoint selection, and audited inference workflows
-- Built with Python, PyTorch, Gymnasium, Stable-Baselines3, and sb3-contrib
-
-[Explore RLBot →](https://github.com/Maxwell553/RLBot)
-
-## What I care about
-
-- Building useful AI products, not just demos
-- Reinforcement learning, machine learning, and rigorous evaluation
-- Data-rich tools with a clear, polished user experience
-- Turning difficult research and analysis workflows into accessible software
-
-## Toolkit
-
-`Python` · `TypeScript` · `React` · `Node.js` · `PyTorch` · `SQL` · `Supabase` · `Google Cloud Run` · `Vercel`
-
-## Also worth a look
-
-- [SpaceInvadersAI](https://github.com/Maxwell553/SpaceInvadersAI) — an earlier reinforcement-learning project for training an agent to play Space Invaders with Keras and OpenAI Gym.
-
----
+<br />
 
 <p align="center">
-  <i>Interested in practical AI, intelligent tools, or thoughtful product engineering? Explore the projects above.</i>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,typescript,react,nodejs,supabase,gcp,vercel&theme=dark&perline=8" alt="Python, PyTorch, TypeScript, React, Node.js, Supabase, Google Cloud, and Vercel" />
+</p>
+
+<p align="center">
+  <sub>Also: <a href="https://github.com/Maxwell553/SpaceInvadersAI">SpaceInvadersAI</a> — an early reinforcement-learning project built with Keras and OpenAI Gym.</sub>
 </p>
